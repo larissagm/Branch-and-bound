@@ -1,0 +1,32 @@
+instances/bayg29.tsp
+Tempo: 0.395999
+Custo: 1610
+
+instances/bays29.tsp
+Tempo: 1.60378
+Custo: 2020
+
+instances/burma14.tsp
+Tempo: 0.913426
+Custo: 3323
+
+instances/fri26.tsp
+Tempo: 5.06151
+Custo: 937
+
+instances/gr17.tsp
+Tempo: 85.5847
+Custo: 2085
+
+instances/gr21.tsp
+Tempo: 0.0028598
+Custo: 2707
+
+instances/gr24.tsp
+Tempo: 0.215629
+Custo: 1272
+
+instances/ulysses16.tsp
+Tempo: 15.6398
+Custo: 6859
+

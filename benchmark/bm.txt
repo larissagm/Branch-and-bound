@@ -1,0 +1,249 @@
+instances/bayg29.tsp
+Tempo: 0.408019
+Custo: 1610.000000
+
+Tempo: 0.412100
+Custo: 1610.000000
+
+Tempo: 0.387790
+Custo: 1610.000000
+
+Tempo: 0.394310
+Custo: 1610.000000
+
+Tempo: 0.383915
+Custo: 1610.000000
+
+Tempo: 0.390718
+Custo: 1610.000000
+
+Tempo: 0.385941
+Custo: 1610.000000
+
+Tempo: 0.404380
+Custo: 1610.000000
+
+Tempo: 0.405341
+Custo: 1610.000000
+
+Tempo: 0.387471
+Custo: 1610.000000
+
+instances/bays29.tsp
+Tempo: 1.579627
+Custo: 2020.000000
+
+Tempo: 1.591655
+Custo: 2020.000000
+
+Tempo: 1.585785
+Custo: 2020.000000
+
+Tempo: 1.564977
+Custo: 2020.000000
+
+Tempo: 1.560503
+Custo: 2020.000000
+
+Tempo: 1.582492
+Custo: 2020.000000
+
+Tempo: 1.735206
+Custo: 2020.000000
+
+Tempo: 1.593812
+Custo: 2020.000000
+
+Tempo: 1.593487
+Custo: 2020.000000
+
+Tempo: 1.650251
+Custo: 2020.000000
+
+instances/burma14.tsp
+Tempo: 0.991904
+Custo: 3323.000000
+
+Tempo: 0.846093
+Custo: 3323.000000
+
+Tempo: 0.837754
+Custo: 3323.000000
+
+Tempo: 0.947507
+Custo: 3323.000000
+
+Tempo: 0.812349
+Custo: 3323.000000
+
+Tempo: 0.821005
+Custo: 3323.000000
+
+Tempo: 0.919351
+Custo: 3323.000000
+
+Tempo: 1.132594
+Custo: 3323.000000
+
+Tempo: 0.909605
+Custo: 3323.000000
+
+Tempo: 0.916097
+Custo: 3323.000000
+
+instances/fri26.tsp
+Tempo: 5.357802
+Custo: 937.000000
+
+Tempo: 5.193778
+Custo: 937.000000
+
+Tempo: 5.339842
+Custo: 937.000000
+
+Tempo: 5.199853
+Custo: 937.000000
+
+Tempo: 5.061360
+Custo: 937.000000
+
+Tempo: 5.015768
+Custo: 937.000000
+
+Tempo: 4.853765
+Custo: 937.000000
+
+Tempo: 4.860387
+Custo: 937.000000
+
+Tempo: 4.922486
+Custo: 937.000000
+
+Tempo: 4.810015
+Custo: 937.000000
+
+instances/gr17.tsp
+Tempo: 83.429841
+Custo: 2085.000000
+
+Tempo: 81.340896
+Custo: 2085.000000
+
+Tempo: 86.302066
+Custo: 2085.000000
+
+Tempo: 85.868991
+Custo: 2085.000000
+
+Tempo: 85.835061
+Custo: 2085.000000
+
+Tempo: 89.225197
+Custo: 2085.000000
+
+Tempo: 87.691565
+Custo: 2085.000000
+
+Tempo: 86.508362
+Custo: 2085.000000
+
+Tempo: 84.547816
+Custo: 2085.000000
+
+Tempo: 85.097211
+Custo: 2085.000000
+
+instances/gr21.tsp
+Tempo: 0.002605
+Custo: 2707.000000
+
+Tempo: 0.002313
+Custo: 2707.000000
+
+Tempo: 0.002466
+Custo: 2707.000000
+
+Tempo: 0.003723
+Custo: 2707.000000
+
+Tempo: 0.002554
+Custo: 2707.000000
+
+Tempo: 0.003200
+Custo: 2707.000000
+
+Tempo: 0.002802
+Custo: 2707.000000
+
+Tempo: 0.002687
+Custo: 2707.000000
+
+Tempo: 0.002416
+Custo: 2707.000000
+
+Tempo: 0.003832
+Custo: 2707.000000
+
+instances/gr24.tsp
+Tempo: 0.236224
+Custo: 1272.000000
+
+Tempo: 0.210273
+Custo: 1272.000000
+
+Tempo: 0.225782
+Custo: 1272.000000
+
+Tempo: 0.220847
+Custo: 1272.000000
+
+Tempo: 0.220728
+Custo: 1272.000000
+
+Tempo: 0.232311
+Custo: 1272.000000
+
+Tempo: 0.208726
+Custo: 1272.000000
+
+Tempo: 0.199630
+Custo: 1272.000000
+
+Tempo: 0.198063
+Custo: 1272.000000
+
+Tempo: 0.203710
+Custo: 1272.000000
+
+instances/ulysses16.tsp
+Tempo: 15.576220
+Custo: 6859.000000
+
+Tempo: 15.955389
+Custo: 6859.000000
+
+Tempo: 15.832420
+Custo: 6859.000000
+
+Tempo: 15.896484
+Custo: 6859.000000
+
+Tempo: 15.322375
+Custo: 6859.000000
+
+Tempo: 15.385536
+Custo: 6859.000000
+
+Tempo: 15.826635
+Custo: 6859.000000
+
+Tempo: 15.523176
+Custo: 6859.000000
+
+Tempo: 15.574788
+Custo: 6859.000000
+
+Tempo: 15.505264
+Custo: 6859.000000
+
+-
